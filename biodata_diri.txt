@@ -1,4 +1,6 @@
 Nama : Rafiyandi
 Domisili : Jakarta Barat
 No hp : 09923713132
+Background Pendidikan : IT
 Motivasi : Ingin Berkarir Dibidang flutter
+
